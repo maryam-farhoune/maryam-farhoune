@@ -1,11 +1,10 @@
 <div align="center">
-  <h1>Hi there, I'm Maryam Farhoune </h1>
-  <h3>AI & Data Science Engineering Student | Predictive Modeling & Machine Learning</h3>
-  
+  <h1>Hi there, I'm Maryam Farhoune 👋</h1>
+  <h3>AI & Data Engineering Student | Machine Learning · Generative AI · Predictive Maintenance</h3>
+
   <p>
     <a href="https://www.linkedin.com/in/maryam-farhoune/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://komarev.com/ghpvc/?username=maryam-farhoune&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Open_to-PFE_2027-F59E0B?style=for-the-badge" alt="Open to PFE 2027" />
   </p>
 </div>
 
@@ -13,20 +12,19 @@
 
 ### 👩‍💻 About Me
 
-I am a 3rd-year engineering student specializing in **Artificial Intelligence and Data Science** at EMSI Roudani. I am deeply passionate about predictive modeling, Machine Learning, and data engineering, driven by the desire to build innovative, data-driven solutions. 
+I am a **4th-year engineering student** specializing in **Artificial Intelligence & Data (IAD)** at **EMSI**, Morocco. I build end-to-end ML systems — from raw industrial sensor data to models, dashboards and LLM-powered assistants.
 
-*   🔭 I’m currently looking for a **4 to 6-month End-of-Studies Internship (PFE) starting in 2027**.
-*   💼 Recently completed an internship at **OCP Group**, developing a predictive maintenance web application and anomaly detection models for turbosuperchargers.
-*   🌱 I’m continuously exploring **Generative AI, Agentic workflows, and Big Data engineering**.
-*   💬 Ask me about **Machine Learning, PyTorch, Data Engineering, or FastAPI**.
-*   ⚡ Fun fact: I love turning messy, multi-dimensional sensor data into clean, actionable insights.
+*   🔭 Looking for a **4 to 6-month End-of-Studies Internship (PFE) starting in 2027** in Data Science / ML / GenAI.
+*   🏭 Internship at **OCP Group**: unsupervised anomaly detection on vibration data from industrial **turbocompressors** (predictive maintenance).
+*   🤖 Currently building **MaintiDoc**, a multimodal agentic RAG assistant for maintenance documentation.
+*   💬 Ask me about **Machine Learning, PyTorch, RAG, Data Engineering, or FastAPI**.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  
+
 **🧠 AI, Machine Learning & Data**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,6 +32,7 @@ I am a 3rd-year engineering student specializing in **Artificial Intelligence an
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 <br><br>
@@ -64,53 +63,71 @@ I am a 3rd-year engineering student specializing in **Artificial Intelligence an
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Deep Learning Multi-modalities</h3>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/maryam-farhoune/MAINTiDOC">MaintiDoc</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM-412991?style=flat-square" />
+      </p>
+      <p>Multimodal agentic RAG assistant that answers technicians' questions from maintenance manuals (text, tables, diagrams).</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Predictive Maintenance — OCP Group</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      </p>
+      <p>Anomaly detection on 8 vibration sensors of industrial turbocompressors: 42 engineered features, Isolation Forest cross-validated with LOF, temporal analysis of anomaly episodes. <i>(Industrial data — confidential)</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/maryam-farhoune/deep_learning_project">Deep Learning Multi-modalities</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
       </p>
-      <p>Designed and compared MLP, CNN, and RNN/LSTM/GRU architectures. Included experimental studies on gradient clipping, Seq2Seq, and internal representations.</p>
+      <p>Designed and compared MLP, CNN, and RNN/LSTM/GRU architectures, with experimental studies on gradient clipping, Seq2Seq, and internal representations.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/maryam-farhoune/Modeles_Generatifs">Generative Models</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
+      </p>
+      <p>Implementation and experiments with deep generative models.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Cosmetic Recommendation System</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       </p>
-      <p>Built a personalized product recommendation system based on user profiles (skin type, ingredients) using a dataset of 1,472 products.</p>
+      <p>Personalized product recommendation system based on user profiles (skin type, ingredients) over a dataset of 1,472 products.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Destination Recommendation App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <p>Smart web application recommending tourist destinations based on user interactions, featuring a custom NoSQL database architecture.</p>
-    </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">OCR Information Extraction</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
-      <p>Developed a pipeline for automatic text extraction and structured data generation from complex documents using Computer Vision.</p>
+      <p>Pipeline for automatic text extraction and structured data generation from complex documents using Computer Vision.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education & Certifications
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryam-farhoune&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Maryam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-farhoune&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</div>
+*   **Engineering Degree — AI & Data (IAD)**, EMSI · *expected 2027*
+*   Coursera — *Agile Project Management* · *Data Science Foundations*
 
-<br>
+---
 
 <div align="center">
   <i>Let's connect and build something intelligent together!</i>
