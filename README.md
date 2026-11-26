@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Maryam Farhoune 👋</h1>
+  <h1>Hi there, I'm Maryam Farhoune </h1>
   <h3>AI & Data Science Engineering Student | Predictive Modeling & Machine Learning</h3>
   
   <p>
