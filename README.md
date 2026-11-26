@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Maryam%20Farhoune&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header"/>
+  <img src="./assets/header.svg" width="100%" alt="Maryam Farhoune — AI & Data Engineering Student"/>
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maryam-farhoune/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Morocco-1E6B3C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Morocco"/>
-  <img src="https://img.shields.io/badge/Open_to-PFE_2027-F59E0B?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to PFE 2027"/>
+  <img src="https://img.shields.io/badge/Location-Morocco-1E6B3C?style=for-the-badge" alt="Morocco"/>
+  <img src="https://img.shields.io/badge/Open_to-PFE_2027-F59E0B?style=for-the-badge" alt="Open to PFE 2027"/>
 </p>
 
 ---
@@ -156,5 +156,5 @@ class MaryamFarhoune:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%" alt="Footer"/>
+  <img src="./assets/footer.svg" width="100%" alt=""/>
 </p>

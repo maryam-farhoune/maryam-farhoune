@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 58px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; letter-spacing: 1px; }
+      .sub   { font: 500 22px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #9FD8E8; letter-spacing: 3px; }
+      .fade  { animation: fade 1.4s ease-out both; }
+      .fade2 { animation: fade 1.4s ease-out .5s both; }
+      @keyframes fade { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <!-- gradient body with wavy bottom edge (transparent below: works in light & dark mode) -->
+  <path d="M0 0 H1200 V200 C 1000 178, 800 225, 600 202 S 200 178, 0 200 Z" fill="url(#bg)"/>
+
+  <!-- subtle network dots -->
+  <g fill="#9FD8E8" opacity="0.25">
+    <circle cx="90" cy="45" r="3"/><circle cx="160" cy="80" r="2"/><circle cx="230" cy="40" r="2.5"/>
+    <circle cx="980" cy="50" r="3"/><circle cx="1050" cy="90" r="2"/><circle cx="1120" cy="45" r="2.5"/>
+  </g>
+  <g stroke="#9FD8E8" stroke-width="1" opacity="0.15">
+    <line x1="90" y1="45" x2="160" y2="80"/><line x1="160" y1="80" x2="230" y2="40"/>
+    <line x1="980" y1="50" x2="1050" y2="90"/><line x1="1050" y1="90" x2="1120" y2="45"/>
+  </g>
+
+  <text x="600" y="105" text-anchor="middle" class="title fade">Maryam Farhoune</text>
+  <text x="600" y="145" text-anchor="middle" class="sub fade2">AI &amp; DATA ENGINEERING STUDENT</text>
+
+</svg>
